@@ -167,7 +167,7 @@ button {
 }
 
 
-@media (max-width: 550px) {
+@media (max-width: 750px) {
     .outer,.sky{
         display: none;
     }
